@@ -6,8 +6,7 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        Viselica Game = new Viselica("привет");
-        Game.StartGame();
-        //Console.WriteLine("Hello, World!");
+        
+        Console.WriteLine("Hello, World!");
     }
 }

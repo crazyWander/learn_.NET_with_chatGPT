@@ -2,7 +2,6 @@
 
 using System.Linq.Expressions;
 using learn;
-using learn.notebook;
 
 internal class Program
 {
